@@ -21,5 +21,3 @@ Aplicação 2.0 do DTMoney agora com um back-end proprio feito em nodeJS!!
 - ``Express 🛣️``
 - ``SQLite 🎒``
 
-## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
